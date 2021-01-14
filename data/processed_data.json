@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "text": "I love this product!",
+        "timestamp": "2021-01-12",
+        "sentiment": "positive"
+    },
+    {
+        "id": 2,
+        "text": "Terrible experience, never buying again.",
+        "timestamp": "2021-02-08",
+        "sentiment": "positive"
+    },
+    {
+        "id": 3,
+        "text": "Neutral tweet, no strong opinions.",
+        "timestamp": "2021-03-17",
+        "sentiment": "neutral"
+    },
+    {
+        "id": 4,
+        "text": "Amazing customer service!",
+        "timestamp": "2021-03-20",
+        "sentiment": "neutral"
+    },
+    {
+        "id": 5,
+        "text": "Product quality could be better.",
+        "timestamp": "2021-04-05",
+        "sentiment": "negative"
+    }
+]
