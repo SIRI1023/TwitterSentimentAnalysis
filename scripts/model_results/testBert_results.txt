@@ -1,0 +1,15 @@
+Loading model and tokenizer...
+Using device: cuda
+Loading test dataset...
+Tokenizing test data...
+Getting predictions...
+Generating classification report..
+              precision    recall  f1-score   support
+
+           0       0.93      0.92      0.92      4427
+           1       0.93      0.88      0.90      3678
+           2       0.88      0.93      0.91      4120
+
+    accuracy                           0.91     12225
+   macro avg       0.91      0.91      0.91     12225
+weighted avg       0.91      0.91      0.91     12225
